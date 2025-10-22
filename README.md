@@ -42,7 +42,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+![WhatsApp Image 2025-10-19 at 14 32 32_ad070df8](https://github.com/user-attachments/assets/7ee8e28e-56d2-443f-8499-45b59d050bee)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![WhatsApp Image 2025-10-19 at 14 38 51_89ae6e5c](https://github.com/user-attachments/assets/93bd7a22-5470-4ecc-9b1f-3f2ceaaa7825)
 
 **RESULTS**
+ Thus the JK FLIPFLOP are designed and the time diagram is verified using Quartus software.
